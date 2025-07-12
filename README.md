@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Juber</h1>
+<p align="center">🚀 Passionate Frontend Developer | HTML • CSS • JavaScript • Flutter • Firebase</p>
+<p align="center">💼 Building real-world projects & ecommerce websites</p>
+<p align="center">📍 Based in Bangalore</p>
 
-<!--
-**mdjuber-dev/mdjuber-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Projects I'm Proud Of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛒 [ewebsite-site](https://github.com/mdjuber-dev/ewebsite-site) – Amazon-like responsive e-commerce site using HTML, CSS, JS  
+- 💬 [Aap-Ka-Dost](https://github.com/mdjuber-dev/Aap-Ka-Dost) – Flutter-based emotional support platform  
+- 🏫 [City College Website](https://github.com/mdjuber-dev/city-college-website) – College web portal for CITY COLLEGE JAYNAGAR
+
+---
+
+### 🔧 Tech Stack
+- ✅ HTML, CSS, JavaScript  
+- ✅ Firebase, Flutter (basic), Git & GitHub  
+- 🧰 VS Code, Chrome DevTools, GitHub Pages
+
+---
+
+### 📫 Let's Connect
+- **Email:** juberbepari02@gmail.com  
+- **Instagram:** [@m_d_______juber](https://www.instagram.com/m_d_______juber/)  
+- **GitHub:** [github.com/mdjuber-dev](https://github.com/mdjuber-dev)
+
+---
