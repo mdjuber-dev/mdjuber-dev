@@ -11,7 +11,7 @@
 - 💬 [Aap-Ka-Dost](https://github.com/mdjuber-dev/Aap-Ka-Dost) – Flutter-based emotional support platform  
 - 🏫 [City College Website](https://github.com/mdjuber-dev/city-college-website) – College web portal for CITY COLLEGE JAYNAGAR
 - 🎬 Netflix Clone(https://github.com/mdjuber-dev/Netflix) – Fully responsive Netflix-style movie streaming UI with trailer overlay, theme toggle, category tabs, and welcome intro video using HTML, CSS, and JavaScript
-- 💱 Currency Converter:() with Exchange Rate Chart A sleek and responsive web app to convert between 100+ currencies with real-time exchange rates and a 7-day historical chart. Built using HTML, CSS, JavaScript, Chart.js, and public ExchangeRate API. Features include dark mode toggle, swap currency, conversion history, and beautiful flag-based UI.
+- 💱 Currency Converter:(https://github.com/mdjuber-dev/currency-converter) with Exchange Rate Chart A sleek and responsive web app to convert between 100+ currencies with real-time exchange rates and a 7-day historical chart. Built using HTML, CSS, JavaScript, Chart.js, and public ExchangeRate API. Features include dark mode toggle, swap currency, conversion history, and beautiful flag-based UI.
 ---
 
 ### 🔧 Tech Stack
