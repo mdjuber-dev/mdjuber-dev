@@ -1,30 +1,76 @@
-<h1 align="center">Hi 👋, I'm Md Juber</h1>
-<p align="center">🚀 Passionate Frontend Developer | HTML • CSS • JavaScript • Flutter • Firebase</p>
-<p align="center">💼 Building real-world projects & ecommerce websites</p>
-<p align="center">📍 Based in Bangalore</p>
+<h1 align="center">Hi 👋, I'm M.D. Juber</h1>
+<p align="center">🚀 Frontend Developer | HTML • CSS • JavaScript • Flutter • Firebase</p>
+<p align="center">💼 Building real-world websites, apps & smart tools</p>
+<p align="center">📍 Based in Bangalore, India</p>
 
 ---
 
-### 💻 Projects I'm Proud Of
+## 💻 Projects I'm Proud Of
 
-- 🛒 [ewebsite-site](https://github.com/mdjuber-dev/ewebsite-site) – Amazon-like responsive e-commerce site using HTML, CSS, JS  
-- 💬 [Aap-Ka-Dost](https://github.com/mdjuber-dev/Aap-Ka-Dost) – Flutter-based emotional support platform  
-- 🏫 [City College Website](https://github.com/mdjuber-dev/city-college-website) – College web portal for CITY COLLEGE JAYNAGAR
-- 🎬 Netflix Clone(https://github.com/mdjuber-dev/Netflix) – Fully responsive Netflix-style movie streaming UI with trailer overlay, theme toggle, category tabs, and welcome intro video using HTML, CSS, and JavaScript
-- 💱 Currency Converter:(https://github.com/mdjuber-dev/currency-converter) with Exchange Rate Chart A sleek and responsive web app to convert between 100+ currencies with real-time exchange rates and a 7-day historical chart. Built using HTML, CSS, JavaScript, Chart.js, and public ExchangeRate API. Features include dark mode toggle, swap currency, conversion history, and beautiful flag-based UI.
----
-
-### 🔧 Tech Stack
-- ✅ HTML, CSS, JavaScript  
-- ✅ Firebase, Flutter (basic), Git & GitHub  
-- 🧰 VS Code, Chrome DevTools, GitHub Pages
+### 🛒 E-Commerce Website (Amazon-Style)
+**Repo:** https://github.com/mdjuber-dev/ewebsite-site  
+A fully responsive e-commerce website with product grid, hover effects, banners, navigation & clean UI using **HTML, CSS, JavaScript**.
 
 ---
 
-### 📫 Let's Connect
-- **Email:** juberbepari02@gmail.com  
-- **Instagram:** [@m_d_______juber](https://www.instagram.com/m_d_______juber/)  
-- **GitHub:** [github.com/mdjuber-dev](https://github.com/mdjuber-dev)
-- **linkdin.com**(https://www.linkedin.com/in/m-d-juber-bepari-a0b5b22a2/)
+### 💬 Aap Ka Dost – Mental Wellness App
+**Repo:** https://github.com/mdjuber-dev/Aap-Ka-Dost  
+A Flutter + Firebase emotional support app featuring:
+- Mood tracking  
+- Daily motivation  
+- Firebase Auth login  
+- Clean, modern UI  
 
 ---
+
+### 🏫 CITY COLLEGE Website
+**Repo:** https://github.com/mdjuber-dev/city-college-website  
+A complete college portal with multiple pages:
+- Courses  
+- Faculty  
+- Contact  
+- Responsive layout  
+
+---
+
+### 🎬 Netflix Clone Website
+**Repo:** https://github.com/mdjuber-dev/Netflix  
+A Netflix-style landing page with:
+- Trailer preview  
+- Category sections  
+- Welcome intro screen  
+- Fully responsive UI  
+Built using **HTML, CSS, JavaScript**.
+
+---
+
+### 💱 Currency Converter (with Chart)
+**Repo:** https://github.com/mdjuber-dev/currency-converter  
+A modern currency converter with:
+- Real-time exchange rates  
+- 7-day historical chart (Chart.js)  
+- Dark mode  
+- Beautiful flag UI  
+Tech: **HTML, CSS, JS, API, Chart.js**
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **App Dev:** Flutter (basic), Firebase  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+- **Other:** APIs, JSON, Responsive Design
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 **Email:** juberbepari02@gmail.com  
+- 🖥️ **GitHub:** https://github.com/mdjuber-dev  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/m-d-juber-bepari-a0b5b22a2/  
+- 📸 **Instagram:** https://www.instagram.com/m_d_______juber/
+
+---
+
+<p align="center">🔥 Always learning. Always building. Ready for real-world opportunities.</p>
